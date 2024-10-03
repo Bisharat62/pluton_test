@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "155219930030",
+    "project_id": "myindiaa-dropshipping",
+    "storage_bucket": "myindiaa-dropshipping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155219930030:android:ad303814134298038a763f",
+        "android_client_info": {
+          "package_name": "com.balidev.pluton_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155219930030-83mb0m2pcij4prhl4n7g7kbd541q41nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balidev.pluton_test",
+            "certificate_hash": "7fa206ce7aa4e9fbe7984dd922ba21cfdc99e95b"
+          }
+        },
+        {
+          "client_id": "155219930030-javnj0u674p6lrtr3pf8ng36fhlrejr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUjc9CkAWZUxMEyI5oph_h7lppKBVYtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155219930030-9t671codph88e59ch4u5g1rro394aroq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
