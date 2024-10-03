@@ -257,6 +257,7 @@ class PostController extends GetxController {
         "Delete All Posts", "Are You Sure Do You Wants To Delete All Posts?");
     if (confirm) {
       _postData = [];
+      updateLongpressed(false);
       update();
       Get.back();
       showInSnackBar("All Posts Are Deleted", color: Colors.red);
